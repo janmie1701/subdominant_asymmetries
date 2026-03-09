@@ -1,6 +1,0 @@
-lal.MSUN_SI != Msun
-__name__ = gwsurrogate.new.spline_evaluation
-__package__= gwsurrogate.new
-Loaded NRSur7dq4 model
-dolphin ready
-Wed 22 Oct 2025 08:04:31 PM UTC
